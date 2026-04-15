@@ -1,4 +1,4 @@
 # Ai-ml-project
-I upload my ai ml code
+I uploaded my ai ml code
 Author - Rohan
 
